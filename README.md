@@ -60,4 +60,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhijnaKalbhag&theme=chartreuse-dark&count_private=true)
 
-[![Abhijna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijnaKalbhag&theme=github-compact)](https://github.com/AbhijnaKalbhag/github-readme-activity-graph)
+[![Shreya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PAI-SHREYA&theme=github-compact)](https://github.com/AbhijnaKalbhag/github-readme-activity-graph)
