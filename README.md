@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](https://gmail.com/paishreya2423@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shreyapai._) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-pai-109871233/) 
 
