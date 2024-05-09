@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mapping Recommendations to A* algorithm.<br>👯 I’m looking to collaborate on MERN stack projects. <br>🌱 I’m currently learning Spring framework.<br>
+🔭 I’m currently working on Mapping Recommendations to A* algorithm.<br>👯 I’m looking to collaborate on MERN stack projects. <br>🌱 I’m currently learning Springboot framework.<br>
 
 
 ## 🌐 Socials:
